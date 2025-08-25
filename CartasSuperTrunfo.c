@@ -14,12 +14,11 @@ int main() {
     float (pib);
     int (numero pontos turisticos);
 
-    char (nome = Pelotas);
-    char (codigo = opção "P");
-    int (população = 300000);
-    float(pib = 3000000);
-    float (área = 500.50);
-    int (numero pontos turisticos = 15);
+    char (nome = Pelotas  char (codigo = opção "P"/n);
+    int (população = 300000/n);
+    float(pib = 3000000/n);
+    float (área = 500.50/n);
+    int (numero pontos turisticos = 15/n);
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
